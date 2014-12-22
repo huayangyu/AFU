@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://http://192.168.2.59/OTA/xiaoqu.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>title</key>
+<string>xqafu</string>
+<key>bundle-version</key>
+<string>1.0.0</string>
+<key>kind</key>
+<string>software</string>
+<key>bundle-identifier</key>
+<string>com.xqafu.iphone</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
